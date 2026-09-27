@@ -1,0 +1,1 @@
+{"name":"Deliverables","alias":"deliverables","description":"Project deliverables","keywords":[],"priority":70,"providers":["Modules\\Deliverables\\Providers\\DeliverablesServiceProvider"],"files":[]}

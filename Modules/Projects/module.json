@@ -1,0 +1,1 @@
+{"name":"Projects","alias":"projects","description":"Projects, drawings and activity","keywords":[],"priority":80,"providers":["Modules\\Projects\\Providers\\ProjectsServiceProvider"],"files":[]}

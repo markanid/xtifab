@@ -1,0 +1,1 @@
+{"name":"Dashboard","alias":"dashboard","description":"Staff and customer dashboards","keywords":[],"priority":40,"providers":["Modules\\Dashboard\\Providers\\DashboardServiceProvider"],"files":[]}

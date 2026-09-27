@@ -1,0 +1,1 @@
+{"name":"Notifications","alias":"notifications","description":"Portal notifications","keywords":[],"priority":50,"providers":["Modules\\Notifications\\Providers\\NotificationsServiceProvider"],"files":[]}

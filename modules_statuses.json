@@ -1,0 +1,9 @@
+{
+    "Authentication": true,
+    "Companies": true,
+    "Projects": true,
+    "Deliverables": true,
+    "Billing": true,
+    "Notifications": true,
+    "Dashboard": true
+}

@@ -1,0 +1,1 @@
+{"name":"Authentication","alias":"authentication","description":"Staff and customer authentication","keywords":[],"priority":100,"providers":["Modules\\Authentication\\Providers\\AuthenticationServiceProvider"],"files":[]}

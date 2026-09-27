@@ -1,0 +1,1 @@
+{"name":"Companies","alias":"companies","description":"Companies and customer accounts","keywords":[],"priority":90,"providers":["Modules\\Companies\\Providers\\CompaniesServiceProvider"],"files":[]}
